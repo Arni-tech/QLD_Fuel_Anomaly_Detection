@@ -72,8 +72,8 @@ QLD_Fuel_Anomaly_Detection/
 ### Anomaly Map
 ![Anomaly Map](data/anomaly_map.png)
 
-### Anomaly Time Series
-![Anomaly Time Series](data/anomaly_time_series.png)
+### Model Performance Comparison
+![Anomaly Time Series](data/model_comparison_mae_r2.png)
 
 ### Anomaly Counts by Fuel Type
 ![Anomaly Counts by Fuel Type](data/anomaly_fueltype_bar.png)
