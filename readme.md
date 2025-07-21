@@ -23,7 +23,6 @@ QLD_Fuel_Anomaly_Detection/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-
 ---
 
 ## Getting Started
