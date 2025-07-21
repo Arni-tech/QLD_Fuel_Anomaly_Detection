@@ -8,22 +8,24 @@ This project implements a machine learning pipeline for **detecting anomalous fu
 
 ## Project Structure
 
+```text
 QLD_Fuel_Anomaly_Detection/
 ├── data/
-│ ├── sample_processed.csv # Small sample for demo/testing
-│ ├── anomalies.csv # Flagged anomalies (results)
-│ └── *.png # Generated visualizations
-├── models/ # Trained models (not included in repo)
+│   ├── sample_processed.csv         # Small sample for demo/testing
+│   ├── anomalies.csv                # Flagged anomalies (results)
+│   └── *.png                        # Generated visualizations
+├── models/                          # Trained models (not included in repo)
 ├── scripts/
-│ ├── preprocessing/
-│ ├── model_exploration/
-│ ├── model_evaluation/
-│ └── analysis/
-├── notebooks/ # (Optional) EDA or demo notebooks
+│   ├── preprocessing/
+│   ├── model_exploration/
+│   ├── model_evaluation/
+│   └── analysis/
+├── notebooks/                       # EDA or demo notebooks
 ├── .gitignore
 ├── requirements.txt
 └── README.md
----
+```
+
 
 ## Getting Started
 
